@@ -9,7 +9,7 @@ namespace NewAPIApp.Controllers
 
         public FantasyController(SearchService searchService)
         {
-            _searchService = searchService;
+            _searchService = searchService; 
         }
 
         [HttpGet]
