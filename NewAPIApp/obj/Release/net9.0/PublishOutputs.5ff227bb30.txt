@@ -1,0 +1,11 @@
+/var/folders/9v/nw5y6m2x2nj7pq9vyy0zmf6w0000gp/T/rider-publish13680837638115370760/NewAPIApp
+/var/folders/9v/nw5y6m2x2nj7pq9vyy0zmf6w0000gp/T/rider-publish13680837638115370760/appsettings.Development.json
+/var/folders/9v/nw5y6m2x2nj7pq9vyy0zmf6w0000gp/T/rider-publish13680837638115370760/appsettings.json
+/var/folders/9v/nw5y6m2x2nj7pq9vyy0zmf6w0000gp/T/rider-publish13680837638115370760/NewAPIApp.dll
+/var/folders/9v/nw5y6m2x2nj7pq9vyy0zmf6w0000gp/T/rider-publish13680837638115370760/NewAPIApp.deps.json
+/var/folders/9v/nw5y6m2x2nj7pq9vyy0zmf6w0000gp/T/rider-publish13680837638115370760/NewAPIApp.runtimeconfig.json
+/var/folders/9v/nw5y6m2x2nj7pq9vyy0zmf6w0000gp/T/rider-publish13680837638115370760/NewAPIApp.pdb
+/var/folders/9v/nw5y6m2x2nj7pq9vyy0zmf6w0000gp/T/rider-publish13680837638115370760/Azure.AI.TextAnalytics.dll
+/var/folders/9v/nw5y6m2x2nj7pq9vyy0zmf6w0000gp/T/rider-publish13680837638115370760/Azure.Core.dll
+/var/folders/9v/nw5y6m2x2nj7pq9vyy0zmf6w0000gp/T/rider-publish13680837638115370760/Microsoft.Bcl.AsyncInterfaces.dll
+/var/folders/9v/nw5y6m2x2nj7pq9vyy0zmf6w0000gp/T/rider-publish13680837638115370760/System.Memory.Data.dll
