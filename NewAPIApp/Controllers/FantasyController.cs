@@ -10,7 +10,7 @@ namespace NewAPIApp.Controllers
         public FantasyController(SearchService searchService)
         {
             _searchService = searchService; 
-        }
+        } 
 
         [HttpGet]
         public IActionResult Index()
