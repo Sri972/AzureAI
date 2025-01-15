@@ -4,7 +4,7 @@ using NewAPIApp.Services;
 namespace NewAPIApp.Controllers
 {
     public class FantasyController : Controller
-    {
+    { 
         private readonly SearchService _searchService;
 
         public FantasyController(SearchService searchService)
